@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(221, 210, 196);
+}
+
+
+div.back{
+    background-color:rgb(255, 255, 255);
+    width: 460px;
+    height: 300px;
+    position: relative;
+    left: 500px;
+    top: 150px;
+    border-radius: 7px;
+}
+img{
+    width: 230px;
+    height: 300px;
+    border-radius: 7px;
+}
+samp{
+    position: relative;
+    bottom: 272px;
+    font-size: x-large;
+    background-color: snow;
+    left: 32px;
+
+}
+h1{
+    position: relative;
+    left: 733px;
+    bottom: 133px;
+    background-color: white;
+    width: 217px;
+}
+pre{
+    position: relative;
+    left: -24px;
+    bottom: 26px;
+    background-color: white;
+    height: 0px;
+}
+h6{
+    font-size: 13px;
+    height: 21px;
+    position: relative;
+    left: 177px;
+    bottom: 24px;
+    border: outset;
+    width: 64px;
+    border-color: snow;
+    border-radius: 11px;
+    background-color: black;
+    color: white;
+}
